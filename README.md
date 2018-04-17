@@ -76,13 +76,13 @@ FTP Application using Apache Commons Net API and Java Swing Application Framewor
    b) If FTP Server is configured on a remote machine run the following command on terminal 
    ftp -p <<ipaddress_of_remote_machine>>
    
-   ![Testing on Server](/screenshots/localhost_test.PNG)  
+   ![Testing on Server](/screenshots/localhost_test.png)  
 13. Downloading files
-	get files/test.txt    
-	![GET](/screenshots/get.PNG)
+	get SampleText.txt    
+	![GET](/screenshots/get.png)
 14. Uploading files
-	put test.txt upload.txt 
-	![PUT](/screenshots/put.PNG)
+	put SampleText.txt test.txt 
+	![PUT](/screenshots/put.png)
 	
 15. Conclusion  
 	If you get proper acknowledgement as shown in steps 12, 13 and 14 then FTP Server setup on Ubuntu is successful. 
@@ -101,7 +101,7 @@ FTP Application using Apache Commons Net API and Java Swing Application Framewor
 
 ## Screenshots
 ### File Upload
-![File Upload](/screenshots/localhost_upload.PNG)
+![File Upload](/screenshots/localhost_upload.png )
 
 ### File Download
-![File Download](/screenshots/localhost_download.PNG)
+![File Download](/screenshots/localhost_download.png)
