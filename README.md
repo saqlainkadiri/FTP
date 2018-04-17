@@ -78,9 +78,10 @@ FTP Application using Apache Commons Net API and Java Swing Application Framewor
    
    ![Testing on Server](/screenshots/localhost_test.png)  
 13. Downloading files
-	get SampleText.txt    
+	get SampleText.txt
+
+![GET](/screenshots/get.png)
 	
-	![GET](/screenshots/get.png)
 14. Uploading files
 	put SampleText.txt test.txt 
 	
